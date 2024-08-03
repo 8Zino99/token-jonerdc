@@ -1,0 +1,8 @@
+# Example proxies.txt
+# Format: IP:Port or username:password@IP:Port
+192.168.0.1:8080
+username:password@192.168.0.2:8080
+192.168.0.3:8080
+username:password@192.168.0.4:8080
+
+# Add your own proxies below
